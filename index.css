@@ -1,0 +1,45 @@
+body {
+  background-color: lightblue;
+}
+.solver {
+  text-align: center;
+}
+
+.power {
+  background-color: white;
+  border-radius: 50%;
+  font-size: 3em;
+  margin: 2rem;
+  border: 0;
+  width: 6em;
+  height: 6em;
+  text-align: center;
+}
+#header {
+  font-size: 5em;
+}
+.sqrt {
+  background-color: white;
+  font-size: 3em;
+  margin: 2rem;
+  width: 6em;
+  height: 6em;
+  border: 0;
+  border-radius: 50%;
+}
+.slope {
+  background-color: white;
+  border-radius: 50%;
+  font-size: 3em;
+  margin: 2rem;
+  width: 6em;
+  border: 0;
+  height: 6em;
+}
+button {
+  text-align: center;
+}
+button:hover {
+  background-color: black;
+  color: white;
+}
