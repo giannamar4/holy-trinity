@@ -1,0 +1,20 @@
+.begin {
+  background-color: #ffa500;
+  text-align: center;
+  font-size: 3em;
+  font-weight: bolder;
+  border: 2px solid black;
+  border-radius: 2em;
+  padding: 1em;
+}
+.begin button {
+  margin: 0;
+}
+.button {
+  height: 10em;
+  left: 50%;
+  margin-right: -50%;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
